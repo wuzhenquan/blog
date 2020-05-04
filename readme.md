@@ -34,8 +34,6 @@
 
 [JS面向对象中的继承](https://github.com/wuzhenquan/blog/issues/4) [javascript]
 
-[JS面向对象中的继承](https://github.com/wuzhenquan/blog/issues/4) 
+[JS对象的属性类型](https://github.com/wuzhenquan/blog/issues/3) [javascript]
 
-[JS对象的属性类型](https://github.com/wuzhenquan/blog/issues/3) 
-
-[JavaScript中面向对象的创建](https://github.com/wuzhenquan/blog/issues/2) 
+[JavaScript中面向对象的创建](https://github.com/wuzhenquan/blog/issues/2) [javascript]
