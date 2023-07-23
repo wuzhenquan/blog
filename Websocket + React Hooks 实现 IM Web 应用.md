@@ -14,14 +14,14 @@ WebSocket 是双向的，一种全双工、有状态协议，客户端和服务�
 
 # WebSocket 连接的生命周期
 
-![[uQv3gSw.png]]
+![](https://github.com/wuzhenquan/blog/blob/main/images/Websocket%20+%20React%20Hooks%20%E5%AE%9E%E7%8E%B0%20IM%20Web%20%E5%BA%94%E7%94%A8/uQv3gSw.png?raw=true)
 ## WebSocket 连接的生命周期 -- 握手状态（opening handshake）
 
-![[SCR-20221231-sv0.png]]
+![](https://github.com/wuzhenquan/blog/blob/main/images/Websocket%20+%20React%20Hooks%20%E5%AE%9E%E7%8E%B0%20IM%20Web%20%E5%BA%94%E7%94%A8/SCR-20221231-sv0.png?raw=true) 
 
 ## WebSocket 连接的生命周期 -- 连接打开状态(Data transfer)
 
-![[rSUiWCh.png]]
+![](https://github.com/wuzhenquan/blog/blob/main/images/Websocket%20+%20React%20Hooks%20%E5%AE%9E%E7%8E%B0%20IM%20Web%20%E5%BA%94%E7%94%A8/rSUiWCh.png?raw=true)
 
 ## WebSocket 连接的生命周期 -- 关闭中和已关闭状态
 
