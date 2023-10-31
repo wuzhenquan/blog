@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "readme.md",
+                "file": "archive/我的 Zettlekasten 笔记法.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "readme.md",
+                "file": "archive/我的 Zettlekasten 笔记法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "readme.md",
+                "file": "archive/我的 Zettlekasten 笔记法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "readme.md"
+                "file": "archive/我的 Zettlekasten 笔记法.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "83642ee01846e109",
   "lastOpenFiles": [
-    "我的 Zettlekasten 笔记法.md",
+    "archive/Websocket + React Hooks 实现 IM Web 应用.md",
+    "archive/我的 Zettlekasten 笔记法.md",
     "readme.md",
     "Icon\r",
     "Untitled",
     "从卡片盒笔记开始走进双链时代/Untitled.md",
     "从卡片盒笔记开始走进双链时代",
-    "archive/Websocket + React Hooks 实现 IM Web 应用.md",
     "Logseq/从 Logseq 开始走进双链时代.md",
     "从卡片盒笔记开始走进双链时代"
   ]
