@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "translucency": true
 }

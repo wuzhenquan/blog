@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "83642ee01846e109",
+            "id": "6b17a71e2610aa51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/我的 Zettlekasten 笔记法.md",
+                "file": "从 Logseq 走进双链时代.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/我的 Zettlekasten 笔记法.md",
+                "file": "从 Logseq 走进双链时代.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archive/我的 Zettlekasten 笔记法.md",
+                "file": "从 Logseq 走进双链时代.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archive/我的 Zettlekasten 笔记法.md"
+                "file": "从 Logseq 走进双链时代.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 292.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "83642ee01846e109",
+  "active": "6b17a71e2610aa51",
   "lastOpenFiles": [
-    "archive/Websocket + React Hooks 实现 IM Web 应用.md",
-    "archive/我的 Zettlekasten 笔记法.md",
+    "Pasted image 20231101172322.png",
+    "从 Logseq 走进双链时代.md",
+    "Pasted image 20231101165628.png",
+    "Pasted image 20231101165504.png",
+    "Pasted image 20231101165336.png",
+    "archive/20231031 我的 Zettlekasten 笔记法.md",
     "readme.md",
+    "archive/20230723 Websocket + React Hooks 实现 IM Web 应用.md",
     "Icon\r",
     "Untitled",
     "从卡片盒笔记开始走进双链时代/Untitled.md",
