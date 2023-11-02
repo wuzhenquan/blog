@@ -19,30 +19,28 @@ Zettelkasten 的一些核心观念依然是有价值的。自下而上的记录�
 
 我在双链笔记里记录时，没有了 Fleeting Notes、Literature Notes、Permanent Notes 的概念。从 Zettelkasten 借鉴过来的部分，那就是 Daily Notes 作为 Fleeting Notes 和 Literature Notes 的结合，知识卡片做为 Permanent Notes 形成链路。
 
-## 双链笔记示例和专门用语解释
-
-### 示例
+## 示例
 
 这是在双链笔记功能中 Daily Notes 上的的记录方式，含有「传递型双链」、「关联型双链」、「标签」
 
 ![](https://i.imgur.com/yQAPvnP.png)
-### 专门用语
+## 专门用语
 
 *声明：这些专门用语是从 [双链时代的快速无压记录](https://www.yuque.com/deerain/gannbs/ffqk2e) 处学习而来的，我的双链笔记流都是从这位大佬习得的*
 
-#### 「块」
+### 「块」
 
 ![](https://i.imgur.com/N0t91IK.png)
 
 示例图中的小圆点代表的是一个块。它可以有父块，也可以有子块。按 Enter 键，就可以创建一个新的块。按 Enter 再 Tab 键，就可以创建一个子块。
 
-#### 「块引用」
+### 「块引用」
 
 ![](https://i.imgur.com/ShcSlqf.png)
 
 块能被引用。复制块引用链接 → 粘贴块引用链接，块就被引用了。点击块引用链接立即跳转到原始块。
 
-#### 「传递型双链」和「关联型双链」
+### 「传递型双链」和「关联型双链」
 
 ![](https://i.imgur.com/07p8GKa.png)
 ![](https://i.imgur.com/BFlKyG3.png)
@@ -55,7 +53,7 @@ Zettelkasten 的一些核心观念依然是有价值的。自下而上的记录�
 
 「传递型双链」和「关联型双链」是等价的，只是使用的方式不一样。「传递型双链」独占一个块，「关联型双链」出现在句子中。
 
-#### 「标签」
+### 「标签」
 
 ![](https://i.imgur.com/8PMvUAE.png)
 
