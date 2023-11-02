@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 315.5
   },
   "right": {
     "id": "893c3547d6260b7a",
@@ -146,15 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b17a71e2610aa51",
+  "active": "a42dec5abe8dc4e4",
   "lastOpenFiles": [
-    "Pasted image 20231101172322.png",
+    "Pasted image 20231102175503.png",
+    "Pasted image 20231102175506.png",
     "从 Logseq 走进双链时代.md",
+    "Pasted image 20231102175447.png",
+    "Pasted image 20231101172322.png",
     "Pasted image 20231101165628.png",
     "Pasted image 20231101165504.png",
     "Pasted image 20231101165336.png",
     "archive/20231031 我的 Zettlekasten 笔记法.md",
-    "readme.md",
+    "README.md",
     "archive/20230723 Websocket + React Hooks 实现 IM Web 应用.md",
     "Icon\r",
     "Untitled",
