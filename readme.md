@@ -2,6 +2,8 @@
 
 ## 2023
 
+[从 Logseq 走进双链时代](https://github.com/wuzhenquan/blog/issues/32)
+
 [我的 Zettelkasten 笔记法](https://github.com/wuzhenquan/blog/issues/31)
 
 [Websocket + React Hooks 实现 IM Web 应用](https://github.com/wuzhenquan/blog/issues/30)
