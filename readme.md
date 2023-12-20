@@ -1,4 +1,4 @@
-🤗 I also post them on my Medium account. Have fun checking it out. 
+🤗 I also post them on my [Medium](https://medium.com/@wuzhenquan) account. Have fun checking it out. 
 ## 2023
 
 [WSL 2 Setup for SSH Remote Access](https://github.com/wuzhenquan/blog/issues/33)
