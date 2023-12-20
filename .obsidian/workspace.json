@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/202311102 从 Logseq 走进双链时代.md",
+                "file": "WSL 2 Setup for SSH Remoting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "396e41c064713dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WSL 2 Setup for SSH Remoting.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 200
   },
   "right": {
     "id": "893c3547d6260b7a",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/202311102 从 Logseq 走进双链时代.md",
+                "file": "WSL 2 Setup for SSH Remoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archive/202311102 从 Logseq 走进双链时代.md",
+                "file": "WSL 2 Setup for SSH Remoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archive/202311102 从 Logseq 走进双链时代.md"
+                "file": "WSL 2 Setup for SSH Remoting.md"
               }
             }
           }
@@ -148,15 +160,17 @@
   },
   "active": "6b17a71e2610aa51",
   "lastOpenFiles": [
+    "readme.md",
+    "WSL 2 Setup for SSH Remoting.md",
+    "archive/202311102 从 Logseq 走进双链时代.md",
+    "archive/20231031 我的 Zettlekasten 笔记法.md",
     "Pasted image 20231102175503.png",
     "Pasted image 20231102175506.png",
-    "archive/202311102 从 Logseq 走进双链时代.md",
     "Pasted image 20231102175447.png",
     "Pasted image 20231101172322.png",
     "Pasted image 20231101165628.png",
     "Pasted image 20231101165504.png",
     "Pasted image 20231101165336.png",
-    "archive/20231031 我的 Zettlekasten 笔记法.md",
     "README.md",
     "archive/20230723 Websocket + React Hooks 实现 IM Web 应用.md",
     "Icon\r",

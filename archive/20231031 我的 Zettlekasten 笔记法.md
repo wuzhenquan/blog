@@ -109,20 +109,20 @@ Zettelkasten 的概念其实很简单。完全可以不需要知道 Fleeting Not
 
 ## References:
 
-### [Zettelkasten Method Explained: A Beginner's Guide](https://www.youtube.com/watch?v=GpV47rUYk8I)
+#### [Zettelkasten Method Explained: A Beginner's Guide](https://www.youtube.com/watch?v=GpV47rUYk8I)
 文中引入了一个我觉得不错的话：
    > The productivity of a knowledge worker should be tracked by how many permanent notes you produce a day. — Sankar Ahren
    
-### [Zettelkasten Method (Explained Clearly with Examples and Software)](https://www.youtube.com/watch?v=wFZHuWLA09M)
+#### [Zettelkasten Method (Explained Clearly with Examples and Software)](https://www.youtube.com/watch?v=wFZHuWLA09M)
 这位 Youtuber 使用的方法结合了自己的习惯。说明了 Zettelkasten 的使用是可以如此地灵活。
 
-### [Build a Zettelkasten in 2023 (Productive Thinking Method)](https://youtu.be/4Nmz6xU_MUI?t=246)
+#### [Build a Zettelkasten in 2023 (Productive Thinking Method)](https://youtu.be/4Nmz6xU_MUI?t=246)
 这位 YouTuber 根据自己学习到的 Zettelkasten，将 Zettelkasten 锻造成了自己的 adapted version。笔记类型有以下四种：
 - Daily Notes: Notes form daily experiences
 - Reference Notes: Notes from information you consumed
 - Permanent Notes: Insight/ideas
 - Hub Notes: Summarization from a collection of permanent notes
 
-### [正本清源，剖析卢曼自叙的卡片盒笔记法](https://www.bilibili.com/video/BV1jY41117as/?spm_id_from=333.337.search-card.all.click&vd_source=d5ef9cf1090e4ba31d65cf0c9ae94f9b)
+#### [正本清源，剖析卢曼自叙的卡片盒笔记法](https://www.bilibili.com/video/BV1jY41117as/?spm_id_from=333.337.search-card.all.click&vd_source=d5ef9cf1090e4ba31d65cf0c9ae94f9b)
 视频底下的评论很值得看。
 
