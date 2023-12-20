@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL 2 Setup for SSH Remoting.md",
+                "file": "WSL 2 Setup for SSH Remote Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WSL 2 Setup for SSH Remoting.md",
+                "file": "WSL 2 Setup for SSH Remote Access.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WSL 2 Setup for SSH Remoting.md",
+                "file": "WSL 2 Setup for SSH Remote Access.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WSL 2 Setup for SSH Remoting.md",
+                "file": "WSL 2 Setup for SSH Remote Access.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WSL 2 Setup for SSH Remoting.md"
+                "file": "WSL 2 Setup for SSH Remote Access.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   "active": "6b17a71e2610aa51",
   "lastOpenFiles": [
     "readme.md",
-    "WSL 2 Setup for SSH Remoting.md",
+    "WSL 2 Setup for SSH Remote Access.md",
     "archive/202311102 从 Logseq 走进双链时代.md",
     "archive/20231031 我的 Zettlekasten 笔记法.md",
     "Pasted image 20231102175503.png",

@@ -1,18 +1,23 @@
+# # WSL 2 Setup for SSH Remote Access
 [WSL 2](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux#WSL_2) is an abbreviation for [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux). Using WSL 2 for development would be a good way to ensure a stable environment. If you want to try WSL as a mini Linux server, this article might serve as a guide for you.
 
 ## Reinstalling SSH
 ### Uninstall and Reinstall SSH
+
 - Uninstall: `sudo apt remove openssh-server`
 - Reinstall: `sudo apt install openssh-server`
 ### Configuring SSH
+
 - Open SSH config file: `sudo vi /etc/ssh/sshd_config`
 - Change `#Port 22` to `Port 22` to enable the default port.
 - Change `#PasswordAuthentication yes` to `PasswordAuthentication yes` to enable password authentication.
 ### Restarting the SSH Service
+
 ```shell
 sudo service ssh restart
 ```
 ### Testing SSH Connection
+
 ```shell
 sudo service ssh restart
 ```
@@ -63,12 +68,12 @@ protocol=TCP `
 localport=<your_windows_listen_port_number>
 ```
 
-	Explanation:
-		- `name=WSL2` is the rule name. You can rename as needed.
-		- `dir=in` specifies the **dir**ection of the rule as **in**bound, meaning it allows connections from outside into the local machine.
-		- `action=allow` specifies the action for the connections that match this rule; here, it allows those connections.
-		- `protocol=TCP` specifies the protocol type that the rule applies to.
-		- `localport=2222` specifies the local port number that the rule applies to.
+Explanation:
+	- `name=WSL2` is the rule name. You can rename as needed.
+	- `dir=in` specifies the **dir**ection of the rule as **in**bound, meaning it allows connections from outside into the local machine.
+	- `action=allow` specifies the action for the connections that match this rule; here, it allows those connections.
+	- `protocol=TCP` specifies the protocol type that the rule applies to.
+	- `localport=2222` specifies the local port number that the rule applies to.
 
 ## Connecting to WSL via SSH
 ### From Local Area Network (LAN)
@@ -88,8 +93,8 @@ ssh <wsl_username>@<public_wan_ip> -p <external_ssh_port>
 ```
 
 Explanation:
-	`<public_wan_ip>`: The public WAN IP address of your network.
-	`<external_ssh_port>`: The external port number designated for SSH in your router’s port forwarding settings.
+	- `<public_wan_ip>`: The public WAN IP address of your network.
+	- `<external_ssh_port>`: The external port number designated for SSH in your router’s port forwarding settings.
 
 ## Summary
 The content above covered the steps and some explanations. Now let's briefly go over all the action steps for quick guidance.
@@ -149,4 +154,4 @@ ssh <wsl_username>@<windows_ip> -p <listen_port_on_windows_ssh_proxy_setting>
 Verifying on a Wide Area Network
 ```shell
 ssh <wsl_username>@<public_wan_ip> -p <external_ssh_port_on_router_settings>
-****```
+```
