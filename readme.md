@@ -1,12 +1,13 @@
-# 我的博客
-
+I also post them on my Medium account. Have fun checking it out. 🤗
 ## 2023
+
+[WSL 2 Setup for SSH Remote Access](https://github.com/wuzhenquan/blog/issues/33)
 
 [从 Logseq 走进双链时代](https://github.com/wuzhenquan/blog/issues/32)
 
 [我的 Zettelkasten 笔记法](https://github.com/wuzhenquan/blog/issues/31)
 
-[Websocket + React Hooks 实现 IM Web 应用](https://github.com/wuzhenquan/blog/issues/30)
+[WebSocket + React Hooks 实现 IM Web 应用](https://github.com/wuzhenquan/blog/issues/30)
 
 ## 2020
 
