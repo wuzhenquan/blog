@@ -1,3 +1,6 @@
+## 2024
+[SSH to Your Remote Server without IP](https://github.com/wuzhenquan/blog/issues/35)
+
 ## 2023
 
 [WSL 2 Setup for SSH Remote Access](https://github.com/wuzhenquan/blog/issues/33)
