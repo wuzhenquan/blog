@@ -8,30 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6b17a71e2610aa51",
+            "id": "396e41c064713dbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "396e41c064713dbd",
+            "id": "757f942552884c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/WSL 2 Setup for SSH Remote Access.md",
+                "file": "Summary/2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f303d97982ead459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "archive/20231110 从 Logseq 走进双链时代.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95622fdf85fb17dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240322 SSH to Your Remote Server without IP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a893fe4294b520ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20240322 SSH to Your Remote Server without IP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "20240322 SSH to Your Remote Server without IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "20240322 SSH to Your Remote Server without IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "20240322 SSH to Your Remote Server without IP.md"
               }
             }
           }
@@ -158,11 +195,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6b17a71e2610aa51",
+  "active": "a893fe4294b520ff",
   "lastOpenFiles": [
-    "archive/WSL 2 Setup for SSH Remote Access.md",
+    "Pasted image 20240319112233.png",
+    "20240322 SSH to Your Remote Server without IP.md",
+    "Pasted image 20240313144946.png",
+    "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
+    "archive/20231110 从 Logseq 走进双链时代.md",
     "README.md",
-    "archive/202311102 从 Logseq 走进双链时代.md",
+    "Summary",
+    "Summary/2023.md",
     "archive/20231031 我的 Zettlekasten 笔记法.md",
     "Pasted image 20231102175503.png",
     "Pasted image 20231102175506.png",
@@ -171,10 +213,8 @@
     "Pasted image 20231101165628.png",
     "Pasted image 20231101165504.png",
     "Pasted image 20231101165336.png",
-    "README.md",
     "archive/20230723 Websocket + React Hooks 实现 IM Web 应用.md",
     "Icon\r",
-    "Untitled",
     "从卡片盒笔记开始走进双链时代/Untitled.md",
     "从卡片盒笔记开始走进双链时代",
     "Logseq/从 Logseq 开始走进双链时代.md",
