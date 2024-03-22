@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240322 SSH to Your Remote Server without IP.md",
+                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20240322 SSH to Your Remote Server without IP.md",
+                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "20240322 SSH to Your Remote Server without IP.md",
+                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "20240322 SSH to Your Remote Server without IP.md",
+                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20240322 SSH to Your Remote Server without IP.md"
+                "file": "archive/20240322 SSH to Your Remote Server without IP.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a893fe4294b520ff",
+  "active": "a42dec5abe8dc4e4",
   "lastOpenFiles": [
     "Pasted image 20240319112233.png",
-    "20240322 SSH to Your Remote Server without IP.md",
+    "archive/20240322 SSH to Your Remote Server without IP.md",
     "Pasted image 20240313144946.png",
     "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
     "archive/20231110 从 Logseq 走进双链时代.md",
