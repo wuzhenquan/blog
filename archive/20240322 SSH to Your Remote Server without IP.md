@@ -59,10 +59,31 @@ ssh-keygen
 
 Run the following command:
 ```shell
-ssh-copy-id <remote_server_username>@<remote_server_public_ip> 
+ssh-copy-id <remote_server_username>@<remote_server_public_ip>
 ```
 
 The two variables `<remote_server_username>` and `<remote_server_public_ip>` were mentioned before.
+
+It's my first time connecting to the remote server. My SSH client displays a prompt about the remote server's authenticity and fingerprint information.
+
+```
+The authenticity of host '<remote_server_public_ip> (<remote_server_public_ip>)' can't be established.
+ECDSA key fingerprint is SHA256:Jw/3FIJwpp3FIJw/3FIJw/3FppLVppmjWs.
+Are you sure you want to continue connecting (yes/no/[fingerprint])?
+```
+
+Typing `yes` and pressing Enter will:
+- Allow the SSH client to accept the remote server's host key.
+- Add the remote server's host key to the `know_host` file in my local machine's `.ssh` directory.
+
+Then my SSH client display another prompt for requiring to enter the password.
+
+```
+<remote_server_username>@<remote_server_public_ip>'s password:
+```
+
+After entering the correct password just one time, `ssh-copy-id` copies my public key to the remote server's `~/.ssh/authorized_keys` file. And I will never entering password when I want to connect server with SSH.
+
 ## Connect Remote Server
 
 Run the following command:
@@ -70,20 +91,7 @@ Run the following command:
 ssh <remote_server_username>@<remote_server_public_ip>
 ```
 
-It's my first time connecting to the remote server from my local machine. My SSH client displays a prompt about the remote server's authenticity and fingerprint information.
 
-```
-The authenticity of host '172.16.254.31 (172.16.254.31)' can't be established.
-ECDSA key fingerprint is SHA256:Jw/3FIJwpp3FIJw/3FIJw/3FppLVppmjWs.
-Are you sure you want to continue connecting (yes/no/[fingerprint])?
-```
-
-Typing `yes` and pressing Enter will:
-
-- Allow the SSH client to accept the remote server's host key.
-- Add it to the `know_host` file in my local machine's `.ssh` directory.
-
-In the future, this prompt will not appear again.
 
 ## SSH Login without the IP
 
