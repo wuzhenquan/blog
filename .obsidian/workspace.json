@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary/2023.md",
+                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
+                "file": "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17af1e80f09f893c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "893c3547d6260b7a",
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
+                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
+                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "archive/20240322 SSH to Your Remote Server without IP.md"
+                "file": "Get My Home Server's Dynamic IP with Duck DNS.md"
               }
             }
           }
@@ -195,16 +208,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a42dec5abe8dc4e4",
+  "active": "757f942552884c67",
   "lastOpenFiles": [
-    "Pasted image 20240319112233.png",
-    "archive/20240322 SSH to Your Remote Server without IP.md",
-    "Pasted image 20240313144946.png",
+    "Summary/2023.md",
+    "Get My Home Server's Dynamic IP with Duck DNS.md",
     "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
+    "archive/20240322 SSH to Your Remote Server without IP.md",
+    "readme.md",
+    "Pasted image 20240319112233.png",
+    "Pasted image 20240313144946.png",
     "archive/20231110 从 Logseq 走进双链时代.md",
     "README.md",
     "Summary",
-    "Summary/2023.md",
     "archive/20231031 我的 Zettlekasten 笔记法.md",
     "Pasted image 20231102175503.png",
     "Pasted image 20231102175506.png",
