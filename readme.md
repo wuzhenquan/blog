@@ -1,5 +1,6 @@
 ## 2024
 [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
+
 [SSH to Your Remote Server without IP](https://github.com/wuzhenquan/blog/issues/35)
 
 ## 2023
