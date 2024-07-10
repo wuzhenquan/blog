@@ -1,3 +1,4 @@
+> This repo will be moved to https://quarts.zhenquan.me
 ## 2024
 [SSH to Your Remote Server without IP](https://github.com/wuzhenquan/blog/issues/35)
 

@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "396e41c064713dbd",
+            "id": "72f1603f40a1070e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "757f942552884c67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f303d97982ead459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/20231110 从 Logseq 走进双链时代.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95622fdf85fb17dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/20240322 SSH to Your Remote Server without IP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a893fe4294b520ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
+                "file": "readme.md",
                 "mode": "source",
                 "source": false
               }
@@ -71,16 +23,11 @@
             "id": "17af1e80f09f893c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "893c3547d6260b7a",
@@ -147,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Get My Home Server's Dynamic IP with Duck DNS.md",
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Get My Home Server's Dynamic IP with Duck DNS.md"
+                "file": "readme.md"
               }
             }
           }
@@ -208,27 +154,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "757f942552884c67",
+  "active": "72f1603f40a1070e",
   "lastOpenFiles": [
+    "images/Websocket + React Hooks 实现 IM Web 应用/rSUiWCh.png",
     "Summary/2023.md",
-    "Get My Home Server's Dynamic IP with Duck DNS.md",
-    "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
-    "archive/20240322 SSH to Your Remote Server without IP.md",
+    "images/IMG_1706.JPG",
+    "images/wuzhenquan_contributions_2022.png",
+    "images/Websocket + React Hooks 实现 IM Web 应用/uQv3gSw.png",
+    "images/Websocket + React Hooks 实现 IM Web 应用/SCR-20221231-sv0.png",
     "readme.md",
+    "SSH Connecting to your local network with your damn bad Domain Name!!!!!!!!!.md",
+    "Cloudflare.md",
+    "archive/20231110 从 Logseq 走进双链时代.md",
+    "archive/20230723 Websocket + React Hooks 实现 IM Web 应用.md",
+    "archive/20231031 我的 Zettlekasten 笔记法.md",
+    "archive/20240322 SSH to Your Remote Server without IP.md",
+    "archive/20240422 Dynamic IP Solutions - Duck DNS Setup.md",
+    "archive/20231201 WSL 2 Setup for SSH Remote Access.md",
+    "Dynamic IP Solutions - Duck DNS Setup.md",
+    "Pasted image 20240422121236.png",
+    "Pasted image 20240423143304.png",
+    "Pasted image 20240423143243.png",
     "Pasted image 20240319112233.png",
     "Pasted image 20240313144946.png",
-    "archive/20231110 从 Logseq 走进双链时代.md",
     "README.md",
     "Summary",
-    "archive/20231031 我的 Zettlekasten 笔记法.md",
-    "Pasted image 20231102175503.png",
-    "Pasted image 20231102175506.png",
-    "Pasted image 20231102175447.png",
-    "Pasted image 20231101172322.png",
-    "Pasted image 20231101165628.png",
-    "Pasted image 20231101165504.png",
-    "Pasted image 20231101165336.png",
-    "archive/20230723 Websocket + React Hooks 实现 IM Web 应用.md",
     "Icon\r",
     "从卡片盒笔记开始走进双链时代/Untitled.md",
     "从卡片盒笔记开始走进双链时代",
