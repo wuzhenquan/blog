@@ -1,4 +1,6 @@
-> This repo will be moved to https://quarts.zhenquan.me
+## 2025
+[2025 Review](https://github.com/wuzhenquan/blog/issues/38)
+
 ## 2024
 [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
 
