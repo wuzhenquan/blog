@@ -1,8 +1,6 @@
 ## 2025
 
-[Difficulties](https://github.com/wuzhenquan/blog/issues/39)
-
-[Dance](https://github.com/wuzhenquan/blog/issues/40)
+[2025](https://github.com/wuzhenquan/blog/issues/38)
 
 ## 2024
 [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
