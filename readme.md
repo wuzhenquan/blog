@@ -1,5 +1,6 @@
 ## 2025
-[2025 Review](https://github.com/wuzhenquan/blog/issues/38)
+
+[Difficulties](https://github.com/wuzhenquan/blog/issues/39)
 
 ## 2024
 [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
