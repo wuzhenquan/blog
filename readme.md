@@ -1,8 +1,7 @@
 ## 2025
 
-[A Thought About "Pomodoro Territory"](https://github.com/wuzhenquan/blog/issues/54)
-
-[2025](https://github.com/wuzhenquan/blog/issues/38)
+- [A Thought About "Pomodoro Territory"](https://github.com/wuzhenquan/blog/issues/54)
+- [2025](https://github.com/wuzhenquan/blog/issues/38)
 
 ## 2024
 [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
