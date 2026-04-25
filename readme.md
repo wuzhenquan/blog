@@ -1,13 +1,13 @@
 ## 2026
+- [2025 Review](https://github.com/wuzhenquan/blog/issues/38)
 - [A Thought About "Pomodoro Territory"](https://github.com/wuzhenquan/blog/issues/54)
 
 ## 2025
-- [2025](https://github.com/wuzhenquan/blog/issues/38)
 - [Zen and the Art of Technology Learning](https://github.com/wuzhenquan/blog/issues/55)
-## 2024
-[Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
 
-[SSH to Your Remote Server without IP](https://github.com/wuzhenquan/blog/issues/35)
+## 2024
+- [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
+- [SSH to Your Remote Server without IP](https://github.com/wuzhenquan/blog/issues/35)
 
 ## 2023
 
