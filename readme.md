@@ -3,7 +3,7 @@
 
 ## 2025
 - [2025](https://github.com/wuzhenquan/blog/issues/38)
-
+- [Zen and the Art of Technology Learning](https://github.com/wuzhenquan/blog/issues/55)
 ## 2024
 [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
 
