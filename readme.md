@@ -12,7 +12,7 @@
 - [SSH to Your Remote Server without IP](https://github.com/wuzhenquan/blog/issues/35)
 
 ## 2023
-- [2022 总结](https://github.com/wuzhenquan/blog/issues/29]
+- [2022 总结](https://github.com/wuzhenquan/blog/issues/29)
 - [WSL 2 Setup for SSH Remote Access](https://github.com/wuzhenquan/blog/issues/33)
 - [从 Logseq 走进双链时代](https://github.com/wuzhenquan/blog/issues/32)
 - [我的 Zettelkasten 笔记法](https://github.com/wuzhenquan/blog/issues/31)
