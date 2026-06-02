@@ -1,22 +1,24 @@
 ## 2026
-- [2025 Review](https://github.com/wuzhenquan/blog/issues/38)
 - [A Thought About "Pomodoro Territory"](https://github.com/wuzhenquan/blog/issues/54)
 
 ## 2025
-- [2024 总结](https://github.com/wuzhenquan/blog/issues/37)
+- [2025 Review](https://github.com/wuzhenquan/blog/issues/38)
 - [Zen and the Art of Technology Learning](https://github.com/wuzhenquan/blog/issues/55)
 
 ## 2024
-- [2023 总结](https://github.com/wuzhenquan/blog/issues/34)
+- [2024 总结](https://github.com/wuzhenquan/blog/issues/37)
 - [Dynamic IP Solutions - Duck DNS Setup](https://github.com/wuzhenquan/blog/issues/36)
 - [SSH to Your Remote Server without IP](https://github.com/wuzhenquan/blog/issues/35)
 
 ## 2023
-- [2022 总结](https://github.com/wuzhenquan/blog/issues/29)
+- [2023 总结](https://github.com/wuzhenquan/blog/issues/34)
 - [WSL 2 Setup for SSH Remote Access](https://github.com/wuzhenquan/blog/issues/33)
 - [从 Logseq 走进双链时代](https://github.com/wuzhenquan/blog/issues/32)
 - [我的 Zettelkasten 笔记法](https://github.com/wuzhenquan/blog/issues/31)
 - [WebSocket + React Hooks 实现 IM Web 应用](https://github.com/wuzhenquan/blog/issues/30)
+
+## 2022
+- [2022 总结](https://github.com/wuzhenquan/blog/issues/29)
 
 ## 2020
 
