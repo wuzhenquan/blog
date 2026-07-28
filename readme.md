@@ -1,6 +1,7 @@
 ## 2026
 - [A Thought About "Pomodoro Territory"](https://github.com/wuzhenquan/blog/issues/54)
 - [Starting Every Day with 300 Sentences of Listening Practice](https://github.com/wuzhenquan/blog/issues/56)
+- [Came Up with a Method to Stay Focused with Eudic](https://github.com/wuzhenquan/blog/issues/57)
 
 ## 2025
 - [2025 Review](https://github.com/wuzhenquan/blog/issues/38)
